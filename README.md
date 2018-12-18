@@ -1,4 +1,4 @@
-# aurora
+# aurora ![aurora logo](/Resources/aurora.png)
 
 aurora is a css front end framework
 
