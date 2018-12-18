@@ -1,5 +1,4 @@
-# aurora 
-<img src="Resources/aurora.png" width="100"/>
+# aurora <br/> <img src="Resources/aurora.png" width="100"/>
 
 aurora is a css front end framework
 
