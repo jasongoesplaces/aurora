@@ -1,0 +1,11 @@
+$colors: (
+    one:  #103756, 
+    two: #14446B, 
+    three: #3EB1BE,
+    four: #05668D,
+    five:#48F6B2,
+);
+
+body {
+    background-color: map-get($map: $colors, $key: one )
+}
