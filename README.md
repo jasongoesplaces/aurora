@@ -1,6 +1,6 @@
 # <img src="Resources/aurora-readme.png" width="250"/>
 
-aurora is a css front end framework
+aurora is a compact and responsive front-end framework
 
 ### Getting Started
 Documentation can be found [Here](https://jasongoesplaces.com/goplacesmedia)
