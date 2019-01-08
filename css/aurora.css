@@ -354,3 +354,50 @@ background-color: #838383;
 /******* Nav ********/
 
 /******* Tabs ********/
+.tab-con {
+  padding: 0 50px;
+  box-shadow: 0 3px 5px 0 rgba(black,.2);
+}
+
+.tabs {
+  position: relative;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.tab {
+  display: block;
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.icon,
+.text {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 30px;
+}
+
+.text {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.tab .active {
+    font-weight: 300;
+}
+
+.indicator {
+position: absolute;
+bottom: 0;
+height: 3px;
+}
