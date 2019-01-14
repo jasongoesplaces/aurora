@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
 var app = {
   tabs: {
     initialize: function() {
-      if (document.querySelectorAll('.tabContainer').length) {
-        var container = document.querySelectorAll('.tabContainer');
+      if (document.querySelectorAll('.tab-con').length) {
+        var container = document.querySelectorAll('.tab-con');
 
         for (var i = 0, l = container.length; i < l; i++) {
           app.tabs.contain.call(null, container[i]);
