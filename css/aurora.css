@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Rajdhani');
+@import url('https://fonts.googleapis.com/css?family=Farsan');
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display');
+/******* Fonts *******/
+.font-1 {
+  font-family: 'Rajdhani';
+}
+.font-2{
+  font-family: 'Farsan';
+}
+.font-3{
+  font-family: 'Major Mono Display', monospace;;
+}
+
 /******* Colors *******/
 .main-color {
   color: #103756;
@@ -37,7 +51,7 @@ color: #838383;
 background-color: #838383;
 }
 
-/******* Grid ********/
+/******* Grid *******/
 .grid {
   width : 100%; 
 }
