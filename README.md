@@ -1,7 +1,7 @@
-# <img src="Resources/aurora-readme.png" width="250"/>
+# <img src="Resources/aurora-readme2.png" width="250"/>
 
 aurora is a compact and responsive front-end framework
-
+ 
 ### Getting Started
 Documentation can be found [Here](https://jasongoesplaces.com/goplacesmedia)
 
