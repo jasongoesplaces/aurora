@@ -1,4 +1,4 @@
-# <img src="Resources/aurora-readme2.png" width="250"/>
+# <img src="Resources/aurora-readme1.png" width="250"/>
 
 aurora is a compact and responsive front-end framework
  
